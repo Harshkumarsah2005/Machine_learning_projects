@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 ## Description
-This repository contains multiple machine learning projects implemented using Python. The projects focus on real-world classification problems and demonstrate data preprocessing, model training, and prediction using standard machine learning techniques.
+This repository contains multiple machine learning projects implemented using Python. The project's focus on real-world classification problems demonstrates data preprocessing, model training, and prediction using standard machine learning techniques in Google Colab.
 
 ## Projects Included
 
@@ -15,7 +15,8 @@ A machine learning model that predicts whether a given news article is **fake or
 - Model evaluation for accuracy
 
 **Techniques Used**
-- Machine Learning classification algorithms
+- Supervised Machine Learning
+- Classification models
 
 ---
 
